@@ -1,7 +1,7 @@
 ## Hi There! 👋💻☕
 &nbsp;
 ### 🔧 Technologies & Tools Familiar With <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,vite,nodejs,express,graphql,apollo,mongodb,mysql,firebase,php,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,vite,nodejs,express,graphql,apollo,mongodb,mysql,php,firebase,figma&theme=light)](https://skillicons.dev)
 
 <!--
 **akacarr/akacarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
